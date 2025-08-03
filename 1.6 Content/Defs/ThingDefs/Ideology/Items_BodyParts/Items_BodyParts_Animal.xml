@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-<!--DomesticDog-->
+<!--Anima-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>BarkPenis</defName>
 		<label>bark penis</label>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<!--Hippopotamine-->
+<!--Hippopotamine-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>HippopotaminePenis</defName>
-		<label>penis</label>
-		<description>A penis.</description>
+		<label>hippopotamine penis</label>
+		<description>A hippopotamine penis.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.4</Mass>
@@ -13,8 +13,8 @@
 
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
 		<defName>HippopotamineVagina</defName>
-		<label>vagina</label>
-		<description>A vagina.</description>
+		<label>hippopotamine vagina</label>
+		<description>A hippopotamine vagina.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.4</Mass>
@@ -23,18 +23,18 @@
 
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
 		<defName>HippopotamineAnus</defName>
-		<label>anus</label>
-		<description>An anus.</description>
+		<label>hippopotamine anus</label>
+		<description>An hippopotamine anus.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Musteline-->
+<!--Musteline-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>MustelinePenis</defName>
-		<label>penis</label>
-		<description>A penis.</description>
+		<label>musteline penis</label>
+		<description>A musteline penis.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.4</Mass>
@@ -43,8 +43,8 @@
 
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
 		<defName>MustelineVagina</defName>
-		<label>vagina</label>
-		<description>A vagina.</description>
+		<label>musteline vagina</label>
+		<description>A musteline vagina.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.4</Mass>
@@ -53,18 +53,18 @@
 
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
 		<defName>MustelineAnus</defName>
-		<label>anus</label>
-		<description>An anus.</description>
+		<label>musteline anus</label>
+		<description>An musteline anus.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Marine-->
+<!--Pinnipedia-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>MarinePenis</defName>
-		<label>penis</label>
-		<description>A penis.</description>
+		<label>marine penis</label>
+		<description>A marine penis.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.4</Mass>
@@ -73,8 +73,8 @@
 
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
 		<defName>MarineVagina</defName>
-		<label>vagina</label>
-		<description>A vagina.</description>
+		<label>marine vagina</label>
+		<description>A marine vagina.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.4</Mass>
@@ -83,14 +83,24 @@
 
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
 		<defName>MarineAnus</defName>
-		<label>anus</label>
-		<description>An anus.</description>
+		<label>marine anus</label>
+		<description>An marine anus.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Crustaceans-->
+<!--Crocodilian-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>CrocodilianPenis</defName>
+		<label>crocodilian penis</label>
+		<description>A crocodilian penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+<!--Crustaceans-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>Gonopods</defName>
 		<label>gonopods</label>
@@ -113,8 +123,8 @@
 
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
 		<defName>CrustaceanAnus</defName>
-		<label>anus</label>
-		<description>An anus.</description>
+		<label>crustacean anus</label>
+		<description>An crustacean anus.</description>
 		<statBases>
 			<MarketValue>250</MarketValue>
 			<Mass>0.12</Mass>

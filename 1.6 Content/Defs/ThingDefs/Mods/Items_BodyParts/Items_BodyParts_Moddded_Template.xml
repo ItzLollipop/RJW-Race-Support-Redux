@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--Modded Template, Use Find&Replace to quickly create
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>PlaceholderBreasts</defName>
+		<label>placeholder breasts</label>
+		<description>A pair of placeholder breasts.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>PlaceholderPenis</defName>
+		<label>placeholder penis</label>
+		<description>A placeholder penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>PlaceholderVagina</defName>
+		<label>placeholder vagina</label>
+		<description>A placeholder vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>PlaceholderAnus</defName>
+		<label>placeholder anus</label>
+		<description>A placeholder anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.120</Mass>
+		</statBases>
+	</ThingDef>
+-->
+</Defs>

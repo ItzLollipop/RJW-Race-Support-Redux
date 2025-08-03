@@ -1,5 +1,4 @@
 Rimworld Core + DLC
-Simian - SimianPenis, SimianVagina, SimianAnus,
 Domestic Dog - DogPenis, DogVagina, DogAnus,
 Canidae - CaninePenis, CanineVagina, CanineAnus,
 Vulpes - VuplinePenis, VuplineVagina, VulpineAnus,
@@ -14,11 +13,15 @@ Camelidae - CamelinePenis, CamelineVagina, CamelineAnus,
 Equidae - EquinePenis, EquineVagina, EquineAnus,
 Ursines - UrsinePenis, UrsineVagina, UrsineAnus,
 Elephantidae - ElephantinePenis, ElephantineVagina, ElephantineAnus,
+Simian - SimianPenis, SimianVagina, SimianAnus,
 Avians - CloacalPenis, CloacalVagina, CloacalAnus,
 Reptiles - CloacalHemiPenis, CloacalHemiVagina, CloacalAnus,
 Testudines - TestudinePenis, CloacalVagina, CloacalAnus,
 Rhincerotidae - RhinocerinePenis, RhinocerineVagina, RhinocerineAnus,
 Xenarthra - XenarthrinePenis, XenarthrineVagina, XenarthrineAnus,
+Mustelidae - MustelinePenis, MustelineVagina, MustelineAnus,
+Pinni,pedia - MarinePenis, MarineVagina, MarineAnus,
+Crustacean - Gonopods, Gonopores, CrustaceanAnus,
 Thrumbo - DragonPenis, DragonVagina, DragonAnus,
 Dragons - DragonPenis, DragonVagina, DragonAnus, DragonBreasts,
 Hippopotamidae - HippopotaminePenis, HippopotamineVagina, HippopotamineAnus,
@@ -69,3 +72,39 @@ Plant
 Robot
 Slime
 Demon
+===============================
+<!--DomesticDog-->
+<!--Canidae-->
+<!--Vulpes-->
+<!--Felidae-->
+<!--Suidae-->
+<!--Murine-->
+<!--Bovidae-->
+<!--Cervidae-->
+<!--Caprine-->
+<!--Camelidae-->
+<!--Equidae-->
+<!--Ursine-->
+<!--Procyonidae-->
+<!--Elephantidae-->
+<!--Reptile-->
+<!--Avians-->
+<!--Primate-->
+<!--Testudines-->
+<!--Rhincerotidae-->
+<!--Hippopotamidae-->
+<!--Xenarthra-->
+<!--Mustelidae-->
+<!--Pinnipedia-->
+<!--Crustacean-->
+<!--Thrumbo-->
+<!--Dragon-->
+<!--Insectoid-->
+<!--Anima-->
+<!--Ghoul-->
+<!--Shamblers-->
+<!--Chimera-->
+<!--Fleshbeasts-->
+<!--Bioferrite-->
+<!--Desiccated-->
+<!--Gorebeasts-->

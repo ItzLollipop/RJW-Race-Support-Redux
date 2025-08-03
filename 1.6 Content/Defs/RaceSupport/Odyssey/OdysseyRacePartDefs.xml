@@ -39,6 +39,11 @@
 		<defName>MarineAnus</defName>
 		<hediffName>MarineAnus</hediffName>
 	</rjw.RacePartDef>
+<!--Crocodilian-->
+	<rjw.RacePartDef>
+		<defName>CrocodilianPenis</defName>
+		<hediffName>CrocodilianPenis</hediffName>
+	</rjw.RacePartDef>
 <!--Crustaceans-->
 	<rjw.RacePartDef>
 		<defName>Gonopods</defName>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<!--Ghoul-->
+<!--Ghoul-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>GhoulPenis</defName>
 		<label>penis</label>
@@ -40,7 +40,7 @@
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Shambler-->
+<!--Shambler-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>RottenPenis</defName>
 		<label>penis</label>
@@ -80,7 +80,7 @@
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Chimera-->
+<!--Chimera-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>ChimeraPenis</defName>
 		<label>penis</label>
@@ -110,7 +110,7 @@
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Fleshbeast-->
+<!--Fleshbeast-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>FleshmassPenis</defName>
 		<label>penis</label>
@@ -140,7 +140,7 @@
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Bioferrite-->
+<!--Bioferrite-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>BioferritePenis</defName>
 		<label>penis</label>
@@ -170,7 +170,7 @@
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Desiccated-->
+<!--Desiccated-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>DesiccatedPenis</defName>
 		<label>penis</label>
@@ -200,7 +200,7 @@
 			<Mass>0.12</Mass>
 		</statBases>
 	</ThingDef>
-	<!--Gorebeasts-->
+<!--Gorebeasts-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
 		<defName>GorePenis</defName>
 		<label>penis</label>

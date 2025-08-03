@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<!--Modded Template, Use Find&Replace to quickly create
-	=======================================================
+<!--Modded Template, Use Find&Replace to quickly create
+=======================================================
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
 		<defName>PlaceholderBreasts</defName>
 		<label>placeholder breasts</label>
@@ -45,7 +45,7 @@
 		</descriptionHyperlinks>
 		<spawnThingOnRemoved>PlaceholderAnus</spawnThingOnRemoved>
 	</rjw.HediffDef_SexPart>
-	-->
+-->
 <!--Demon-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
 		<defName>DemonBreasts</defName>

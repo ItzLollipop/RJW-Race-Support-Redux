@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<!--Modded Template, Use Find&Replace to quickly create
-	=======================================================
+<!--Modded Template, Use Find&Replace to quickly create
+=======================================================
 	<rjw.RacePartDef>
 		<defName>PlaceholderBreasts</defName>
 		<hediffName>PlaceholderBreasts</hediffName>
@@ -18,7 +18,7 @@
 		<defName>PlaceholderAnus</defName>
 		<hediffName>PlaceholderAnus</hediffName>
 	</rjw.RacePartDef>
-	-->
+-->
 <!--Demon-->
 	<rjw.RacePartDef>
 		<defName>DemonBreasts</defName>

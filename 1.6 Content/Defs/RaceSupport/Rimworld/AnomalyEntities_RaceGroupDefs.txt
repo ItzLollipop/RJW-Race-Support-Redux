@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<!--Ghoul-->
+<!--Ghoul-->
 	<rjw.RaceGroupDef>
 		<defName>Ghoul_Group</defName>
 		<raceNames>
@@ -26,7 +26,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Shamblers-->
+<!--Shamblers-->
 	<rjw.RaceGroupDef>
 		<defName>Shamblers_Group</defName>
 		<raceNames>
@@ -54,7 +54,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Chimera-->
+<!--Chimera-->
 	<rjw.RaceGroupDef>
 		<defName>Chimera_Group</defName>
 		<raceNames>
@@ -74,7 +74,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Fleshbeasts-->
+<!--Fleshbeasts-->
 	<rjw.RaceGroupDef>
 		<defName>Fleshbeasts_Group</defName>
 		<raceNames>
@@ -96,7 +96,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Bioferrite-->
+<!--Bioferrite-->
 	<rjw.RaceGroupDef>
 		<defName>Bioferrite_Group</defName>
 		<raceNames>
@@ -116,7 +116,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Desiccated-->
+<!--Desiccated-->
 	<rjw.RaceGroupDef>
 		<defName>Desiccated_Group</defName>
 		<raceNames>
@@ -137,7 +137,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Gorebeasts-->
+<!--Gorebeasts-->
 	<rjw.RaceGroupDef>
 		<defName>Gorebeast_Group</defName>
 		<raceNames>

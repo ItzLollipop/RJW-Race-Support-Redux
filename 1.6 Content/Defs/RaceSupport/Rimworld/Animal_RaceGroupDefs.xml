@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<!--DomesticDog-->
+<!--DomesticDog-->
 	<rjw.RaceGroupDef>
 		<defName>DomesticDog_Group</defName>
 		<raceNames>
@@ -28,7 +28,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Canidae-->
+<!--Canidae-->
 	<rjw.RaceGroupDef>
 		<defName>Canine_Group</defName>
 		<raceNames>
@@ -58,7 +58,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Vulpes-->
+<!--Vulpes-->
 	<rjw.RaceGroupDef>
 		<defName>Vulpine_Group</defName>
 		<raceNames>
@@ -86,7 +86,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Felidae-->
+<!--Felidae-->
 	<rjw.RaceGroupDef>
 		<defName>Feline_Group</defName>
 		<raceNames>
@@ -116,7 +116,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Suidae-->
+<!--Suidae-->
 	<rjw.RaceGroupDef>
 		<defName>Swine_Group</defName>
 		<raceNames>
@@ -143,7 +143,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Murine-->
+<!--Murine-->
 	<rjw.RaceGroupDef>
 		<defName>Murine_Group</defName>
 		<raceNames>
@@ -180,7 +180,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Bovidae-->
+<!--Bovidae-->
 	<rjw.RaceGroupDef>
 		<defName>Bovine_Group</defName>
 		<raceNames>
@@ -211,7 +211,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Cervidae-->
+<!--Cervidae-->
 	<rjw.RaceGroupDef>
 		<defName>Cervine_Group</defName>
 		<raceNames>
@@ -240,7 +240,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Caprine-->
+<!--Caprine-->
 	<rjw.RaceGroupDef>
 		<defName>Caprine_Group</defName>
 		<raceNames>
@@ -269,7 +269,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Camelidae-->
+<!--Camelidae-->
 	<rjw.RaceGroupDef>
 		<defName>Cameline_Group</defName>
 		<raceNames>
@@ -296,7 +296,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Equidae-->
+<!--Equidae-->
 	<rjw.RaceGroupDef>
 		<defName>Equine_Group</defName>
 		<raceNames>
@@ -323,7 +323,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Ursine-->
+<!--Ursine-->
 	<rjw.RaceGroupDef>
 		<defName>Ursine_Group</defName>
 		<raceNames>
@@ -351,7 +351,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Procyonidae-->
+<!--Procyonidae-->
 	<rjw.RaceGroupDef>
 		<defName>Procyonine_Group</defName>
 		<raceNames>
@@ -377,7 +377,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Elephantidae-->
+<!--Elephantidae-->
 	<rjw.RaceGroupDef>
 		<defName>Elephantine_Group</defName>
 		<raceNames>
@@ -404,7 +404,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Reptile-->
+<!--Reptile-->
 	<rjw.RaceGroupDef>
 		<defName>Reptile_Group</defName>
 		<raceNames>
@@ -426,11 +426,30 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Amphibia-->
+<!--Crocodilian-->
+	<rjw.RaceGroupDef>
+		<defName>Crocodilian_Group</defName>
+		<raceNames>
+			<li MayRequire="Ludeon.RimWorld.Odyssey">Alligator</li>
+		</raceNames>
+		<anuses>
+			<li>CloacalAnus</li>
+		</anuses>
+		<femaleGenitals>
+			<li>CloacalVagina</li>
+		</femaleGenitals>
+		<maleGenitals>
+			<li>CrocodilianPenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Skin</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+<!--Amphibia-->
 	<rjw.RaceGroupDef>
 		<defName>Amphibian_Group</defName>
 		<raceNames>
-			<li MayRequire="Ludeon.RimWorld.Odyssey">Alligator</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Bullfrog</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">ColossusToad</li>
 		</raceNames>
@@ -448,7 +467,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Avians-->
+<!--Avians-->
 	<rjw.RaceGroupDef>
 		<defName>Avian_Group</defName>
 		<raceNames>
@@ -478,7 +497,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Primate-->
+<!--Primate-->
 	<rjw.RaceGroupDef>
 		<defName>Simian_Group</defName>
 		<raceNames>
@@ -505,7 +524,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Testudines-->
+<!--Testudines-->
 	<rjw.RaceGroupDef>
 		<defName>Testudine_Group</defName>
 		<raceNames>
@@ -526,7 +545,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Rhincerotidae-->
+<!--Rhincerotidae-->
 	<rjw.RaceGroupDef>
 		<defName>Rhinocerine_Group</defName>
 		<raceNames>
@@ -552,7 +571,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Hippopotamidae-->
+<!--Hippopotamidae-->
 	<rjw.RaceGroupDef>
 		<defName>Hippopotamine_Group</defName>
 		<raceNames>
@@ -578,7 +597,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Xenarthra-->
+<!--Xenarthra-->
 	<rjw.RaceGroupDef>
 		<defName>Xenarthrine_Group</defName>
 		<raceNames>
@@ -605,7 +624,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Mustelidae-->
+<!--Mustelidae-->
 	<rjw.RaceGroupDef>
 		<defName>Musteline_Group</defName>
 		<raceNames>
@@ -634,7 +653,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Pinnipedia-->
+<!--Pinnipedia-->
 	<rjw.RaceGroupDef>
 		<defName>Pinnipedine_Group</defName>
 		<raceNames>
@@ -656,7 +675,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Crustacean-->
+<!--Crustacean-->
 	<rjw.RaceGroupDef>
 		<defName>Crustacean_Group</defName>
 		<raceNames>
@@ -677,7 +696,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Thrumbo-->
+<!--Thrumbo-->
 	<rjw.RaceGroupDef>
 		<defName>Thrumbo_Group</defName>
 		<raceNames>
@@ -704,7 +723,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Dragon-->
+<!--Dragon-->
 	<rjw.RaceGroupDef>
 		<defName>Dragon_Group</defName>
 		<raceNames>
@@ -729,7 +748,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Insectoid-->
+<!--Insectoid-->
 	<rjw.RaceGroupDef>
 		<defName>Insect_Group</defName>
 		<raceNames>
@@ -751,7 +770,7 @@
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
-	<!--Anima-->
+<!--Anima-->
 	<rjw.RaceGroupDef>
 		<defName>Anima_Group</defName>
 		<raceNames>

@@ -138,6 +138,22 @@
             <li>Internal</li>
         </partTags>
     </rjw.HediffDef_SexPart>
+<!--Crocodilian-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>CrocodilianPenis</defName>
+        <label>crocodilian penis</label>
+        <labelNoun>a crocodilian penis</labelNoun>
+        <description>A crocodilian penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>CrocodilianPenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>CrocodilianPenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Small</li>
+            <li>Girthy</li>
+            <li>Internal</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
 <!--Crustaceans-->
     <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
         <defName>Gonopods</defName>

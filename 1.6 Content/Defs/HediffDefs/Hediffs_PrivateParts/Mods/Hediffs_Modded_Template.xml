@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Modded Template, Use Find&Replace to quickly create
+=======================================================
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+		<defName>PlaceholderBreasts</defName>
+		<label>placeholder breasts</label>
+		<labelNoun>a pair of placeholder breasts</labelNoun>
+		<description>A pair of placeholder breasts.</description>
+		<descriptionHyperlinks>
+			<ThingDef>PlaceholderBreasts</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>PlaceholderBreasts</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>PlaceholderPenis</defName>
+		<label>placeholder penis</label>
+		<labelNoun>a placeholder penis</labelNoun>
+		<description>A placeholder penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>PlaceholderPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>PlaceholderPenis</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>PlaceholderVagina</defName>
+		<label>placeholder vagina</label>
+		<labelNoun>a placeholder vagina</labelNoun>
+		<description>A placeholder vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>PlaceholderVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>PlaceholderVagina</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>PlaceholderAnus</defName>
+		<label>placeholder anus</label>
+		<labelNoun>a placeholder anus</labelNoun>
+		<description>A placeholder anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>PlaceholderAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>PlaceholderAnus</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+-->
+</Defs>

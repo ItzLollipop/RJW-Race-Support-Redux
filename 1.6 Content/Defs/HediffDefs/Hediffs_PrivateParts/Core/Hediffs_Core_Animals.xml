@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<!--Generic Mammal-->
+<!--Generic Mammal-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
 		<defName>MammalBreasts</defName>
 		<label>mammal breasts</label>
@@ -44,7 +44,7 @@
 		</descriptionHyperlinks>
 		<spawnThingOnRemoved>MammalAnus</spawnThingOnRemoved>
 	</rjw.HediffDef_SexPart>
-	<!--DomesticDog-->
+<!--DomesticDog-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>DogPenis</defName>
 		<label>dog penis</label>
@@ -88,7 +88,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Canidae-->
+<!--Canidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>CaninePenis</defName>
 		<label>canine penis</label>
@@ -132,7 +132,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Vulpes-->
+<!--Vulpes-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>VulpinePenis</defName>
 		<label>vulpine penis</label>
@@ -176,7 +176,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Felidae-->
+<!--Felidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>FelinePenis</defName>
 		<label>feline penis</label>
@@ -220,7 +220,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Suidae-->
+<!--Suidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>SwinePenis</defName>
 		<label>swine penis</label>
@@ -265,7 +265,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Murine-->
+<!--Murine-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>MurinePenis</defName>
 		<label>murine penis</label>
@@ -310,7 +310,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Procyonidae-->
+<!--Procyonidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>ProcyoninePenis</defName>
 		<label>procyonine penis</label>
@@ -355,7 +355,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Bovidae-->
+<!--Bovidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>BovinePenis</defName>
 		<label>bovine penis</label>
@@ -401,7 +401,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Cervidae-->
+<!--Cervidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>CervinePenis</defName>
 		<label>cervine penis</label>
@@ -447,7 +447,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Caprine-->
+<!--Caprine-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>CaprinePenis</defName>
 		<label>caprine penis</label>
@@ -492,7 +492,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Camelidae-->
+<!--Camelidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>CamelinePenis</defName>
 		<label>cameline penis</label>
@@ -537,7 +537,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Equidae-->
+<!--Equidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>EquinePenis</defName>
 		<label>equine penis</label>
@@ -583,7 +583,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Ursine-->
+<!--Ursine-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>UrsinePenis</defName>
 		<label>ursine penis</label>
@@ -629,7 +629,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Elephantidae-->
+<!--Elephantidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>ElephantinePenis</defName>
 		<label>elephantine penis</label>
@@ -675,7 +675,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Reptiles-->
+<!--Reptiles-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>CloacalHemiPenis</defName>
 		<label>cloacal hemipenis</label>
@@ -720,7 +720,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Primate-->
+<!--Primate-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>SimianPenis</defName>
 		<label>simian penis</label>
@@ -763,7 +763,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Testudines-->
+<!--Testudines-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>TestudinePenis</defName>
 		<label>testudine penis</label>
@@ -780,7 +780,7 @@
 			<li>Internal</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Amphibia/Avian-->
+<!--Amphibia/Avian-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>CloacalPenis</defName>
 		<label>cloacal penis</label>
@@ -795,7 +795,7 @@
 			<li>Internal</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Rhincerotidae-->
+<!--Rhincerotidae-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>RhinocerinePenis</defName>
 		<label>rhinocerine penis</label>
@@ -841,7 +841,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Xenarthra-->
+<!--Xenarthra-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
 		<defName>XenarthrinePenis</defName>
 		<label>xenarthrine penis</label>
@@ -884,7 +884,7 @@
 			<li>Tight</li>
 		</partTags>
 	</rjw.HediffDef_SexPart>
-	<!--Dragon-->
+<!--Dragon-->
 	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
         <defName>DragonBreasts</defName>
         <label>dragon breasts</label>

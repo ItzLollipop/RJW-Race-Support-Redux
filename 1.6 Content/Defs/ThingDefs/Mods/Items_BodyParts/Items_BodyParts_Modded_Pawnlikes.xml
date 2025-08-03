@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<!--Modded Template, Use Find&Replace to quickly create
-	=======================================================
+<!--Modded Template, Use Find&Replace to quickly create
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
 		<defName>PlaceholderBreasts</defName>
 		<label>placeholder breasts</label>
@@ -41,8 +40,7 @@
 			<Mass>0.120</Mass>
 		</statBases>
 	</ThingDef>
-	-->
-
+-->
 <!--Demon-->
 	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
 		<defName>DemonBreasts</defName>
