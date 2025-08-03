@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--Ghoul-->
+	<rjw.RacePartDef>
+		<defName>GhoulPenis</defName>
+		<hediffName>GhoulPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>GhoulVagina</defName>
+		<hediffName>GhoulVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>GhoulAnus</defName>
+		<hediffName>GhoulAnus</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>GhoulBreasts</defName>
+		<hediffName>GhoulBreasts</hediffName>
+	</rjw.RacePartDef>
+<!--Shamblers-->
+	<rjw.RacePartDef>
+		<defName>RottenPenis</defName>
+		<hediffName>RottenPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>RottenVagina</defName>
+		<hediffName>RottenVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>RottenAnus</defName>
+		<hediffName>RottenAnus</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>RottenBreasts</defName>
+		<hediffName>RottenBreasts</hediffName>
+	</rjw.RacePartDef>
+<!--Chimera-->
+	<rjw.RacePartDef>
+		<defName>ChimeraPenis</defName>
+		<hediffName>ChimeraPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>ChimeraVagina</defName>
+		<hediffName>ChimeraVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>ChimeraAnus</defName>
+		<hediffName>ChimeraAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Fleshbeasts-->
+	<rjw.RacePartDef>
+		<defName>FleshmassPenis</defName>
+		<hediffName>FleshmassPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>FleshmassVagina</defName>
+		<hediffName>FleshmassVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>FleshmassAnus</defName>
+		<hediffName>FleshmassAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Bioferrite-->
+	<rjw.RacePartDef>
+		<defName>BioferritePenis</defName>
+		<hediffName>BioferritePenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>BioferriteVagina</defName>
+		<hediffName>BioferriteVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>BioferriteAnus</defName>
+		<hediffName>BioferriteAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Desiccated-->
+	<rjw.RacePartDef>
+		<defName>DesiccatedPenis</defName>
+		<hediffName>DesiccatedPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>DesiccatedVagina</defName>
+		<hediffName>DesiccatedVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>DesiccatedAnus</defName>
+		<hediffName>DesiccatedAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Gorebeasts-->
+	<rjw.RacePartDef>
+		<defName>GorePenis</defName>
+		<hediffName>GorePenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>GoreVagina</defName>
+		<hediffName>GoreVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>GoreAnus</defName>
+		<hediffName>GoreAnus</hediffName>
+	</rjw.RacePartDef>
+</Defs>

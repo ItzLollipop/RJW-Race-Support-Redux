@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!--Ghoul-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>GhoulPenis</defName>
+		<label>penis</label>
+		<description>A penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>GhoulBreasts</defName>
+		<label>breasts</label>
+		<description>A pair of breasts.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>GhoulVagina</defName>
+		<label>vagina</label>
+		<description>A vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>GhoulAnus</defName>
+		<label>anus</label>
+		<description>An anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+	<!--Shambler-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>RottenPenis</defName>
+		<label>penis</label>
+		<description>A penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>RottenBreasts</defName>
+		<label>breasts</label>
+		<description>A pair of breasts.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>RottenVagina</defName>
+		<label>vagina</label>
+		<description>A vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>RottenAnus</defName>
+		<label>anus</label>
+		<description>An anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+	<!--Chimera-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>ChimeraPenis</defName>
+		<label>penis</label>
+		<description>A penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>ChimeraVagina</defName>
+		<label>vagina</label>
+		<description>A vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>ChimeraAnus</defName>
+		<label>anus</label>
+		<description>An anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+	<!--Fleshbeast-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>FleshmassPenis</defName>
+		<label>penis</label>
+		<description>A penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>FleshmassVagina</defName>
+		<label>vagina</label>
+		<description>A vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>FleshmassAnus</defName>
+		<label>anus</label>
+		<description>An anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+	<!--Bioferrite-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>BioferritePenis</defName>
+		<label>penis</label>
+		<description>A penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>BioferriteVagina</defName>
+		<label>vagina</label>
+		<description>A vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>BioferriteAnus</defName>
+		<label>anus</label>
+		<description>An anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+	<!--Desiccated-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>DesiccatedPenis</defName>
+		<label>penis</label>
+		<description>A penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>DesiccatedVagina</defName>
+		<label>vagina</label>
+		<description>A vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>DesiccatedAnus</defName>
+		<label>anus</label>
+		<description>An anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+	<!--Gorebeasts-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>GorePenis</defName>
+		<label>penis</label>
+		<description>A penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>GoreVagina</defName>
+		<label>vagina</label>
+		<description>A vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>GoreAnus</defName>
+		<label>anus</label>
+		<description>An anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+</Defs>

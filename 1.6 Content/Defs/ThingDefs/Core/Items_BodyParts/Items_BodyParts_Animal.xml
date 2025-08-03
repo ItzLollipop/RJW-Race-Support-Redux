@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--Generic Mammal-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>MammalBreasts</defName>
+		<label>mammal breasts</label>
+		<description>A group of breasts/nipples that mammals use to suckle their young.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>MammalPenis</defName>
+		<label>mammal penis</label>
+		<description>A generic mammalian animal's penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>MammalVagina</defName>
+		<label>mammal vagina</label>
+		<description>A generic vagina that probably belongs to some mammal.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>MammalAnus</defName>
+		<label>mammal anus</label>
+		<description>A generic mammalian animal's anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.120</Mass>
+		</statBases>
+	</ThingDef>
+<!--DomesticDog-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>DogPenis</defName>
+		<label>dog penis</label>
+		<description>A dog penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>DogVagina</defName>
+		<label>dog vagina</label>
+		<description>A dog vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>DogAnus</defName>
+		<label>dog anus</label>
+		<description>A dog anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Canidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>CaninePenis</defName>
+		<label>canine penis</label>
+		<description>A canine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>CanineVagina</defName>
+		<label>canine vagina</label>
+		<description>A canine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>CanineAnus</defName>
+		<label>canine anus</label>
+		<description>A canine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Vulpes-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>VulpinePenis</defName>
+		<label>vulpine penis</label>
+		<description>A vulpine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>VulpineVagina</defName>
+		<label>vulpine vagina</label>
+		<description>A vulpine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>VulpineAnus</defName>
+		<label>vulpine anus</label>
+		<description>A vulpine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Felidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>FelinePenis</defName>
+		<label>feline penis</label>
+		<description>A feline penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>FelineVagina</defName>
+		<label>feline vagina</label>
+		<description>A feline vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>FelineAnus</defName>
+		<label>feline anus</label>
+		<description>A feline anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Suidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>SwinePenis</defName>
+		<label>swine penis</label>
+		<description>A swine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>SwineVagina</defName>
+		<label>swine vagina</label>
+		<description>A swine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>SwineAnus</defName>
+		<label>swine anus</label>
+		<description>A swine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+	<!--Procyonine-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>ProcyoninePenis</defName>
+		<label>procyonine penis</label>
+		<description>A procyonine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>ProcyonineVagina</defName>
+		<label>procyonine vagina</label>
+		<description>A procyonine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>ProcyonineAnus</defName>
+		<label>procyonine anus</label>
+		<description>A procyonine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Murine-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>MurinePenis</defName>
+		<label>murine penis</label>
+		<description>A murine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>MurineVagina</defName>
+		<label>murine vagina</label>
+		<description>A murine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>MurineAnus</defName>
+		<label>murine anus</label>
+		<description>A murine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Bovidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>BovinePenis</defName>
+		<label>bovine penis</label>
+		<description>A bovine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>BovineVagina</defName>
+		<label>bovine vagina</label>
+		<description>A bovine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>BovineAnus</defName>
+		<label>bovine anus</label>
+		<description>A bovine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Cervidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>CervinePenis</defName>
+		<label>cervine penis</label>
+		<description>A cervine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>CervineVagina</defName>
+		<label>cervine vagina</label>
+		<description>A cervine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>CervineAnus</defName>
+		<label>cervine anus</label>
+		<description>A cervine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Caprine-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>CaprinePenis</defName>
+		<label>caprine penis</label>
+		<description>A caprine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>CaprineVagina</defName>
+		<label>caprine vagina</label>
+		<description>A caprine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>CaprineAnus</defName>
+		<label>caprine anus</label>
+		<description>A caprine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Camelidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>CamelinePenis</defName>
+		<label>cameline penis</label>
+		<description>A cameline penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>CamelineVagina</defName>
+		<label>cameline vagina</label>
+		<description>A cameline vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>CamelineAnus</defName>
+		<label>cameline anus</label>
+		<description>A cameline anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Equidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>EquinePenis</defName>
+		<label>equine penis</label>
+		<description>A equine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>EquineVagina</defName>
+		<label>equine vagina</label>
+		<description>A equine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>EquineAnus</defName>
+		<label>equine anus</label>
+		<description>A equine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Ursine-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>UrsinePenis</defName>
+		<label>ursine penis</label>
+		<description>A ursine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>UrsineVagina</defName>
+		<label>ursine vagina</label>
+		<description>A ursine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>UrsineAnus</defName>
+		<label>ursine anus</label>
+		<description>A ursine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Elephantidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>ElephantinePenis</defName>
+		<label>elephantine penis</label>
+		<description>A elephantine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>ElephantineVagina</defName>
+		<label>elephantine vagina</label>
+		<description>A elephantine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>ElephantineAnus</defName>
+		<label>elephantine anus</label>
+		<description>A elephantine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Reptile-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>CloacalHemiPenis</defName>
+		<label>hemi penis</label>
+		<description>A hemi penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>CloacalHemiVagina</defName>
+		<label>hemi vagina</label>
+		<description>A hemi vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+<!--Primate-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>SimianPenis</defName>
+		<label>simian penis</label>
+		<description>A simian penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>SimianVagina</defName>
+		<label>simian vagina</label>
+		<description>A simian vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>SimianAnus</defName>
+		<label>simian anus</label>
+		<description>A simian anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Testudines-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>TestudinePenis</defName>
+		<label>testudine penis</label>
+		<description>A testudine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+<!--Rhincerotidae-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>RhinocerinePenis</defName>
+		<label>rhinocerine penis</label>
+		<description>A rhinocerine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>RhinocerineVagina</defName>
+		<label>rhinocerine vagina</label>
+		<description>A rhinocerine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>RhinocerineAnus</defName>
+		<label>rhinocerine anus</label>
+		<description>A rhinocerine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Xenarthra-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>XenarthrinePenis</defName>
+		<label>xenarthrine penis</label>
+		<description>A xenarthrine penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>XenarthrineVagina</defName>
+		<label>xenarthrine vagina</label>
+		<description>A xenarthrine vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>XenarthrineAnus</defName>
+		<label>xenarthrine anus</label>
+		<description>A xenarthrine anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+<!--Dragon-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>DragonBreasts</defName>
+		<label>dragon breasts</label>
+		<description>A pair of dragon breasts.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>DragonPenis</defName>
+		<label>dragon penis</label>
+		<description>A dragon penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>DragonVagina</defName>
+		<label>dragon vagina</label>
+		<description>A dragon vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>DragonAnus</defName>
+		<label>dragon anus</label>
+		<description>A dragon anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+</Defs>

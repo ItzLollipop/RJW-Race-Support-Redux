@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!--Generic Mammal-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+		<defName>MammalBreasts</defName>
+		<label>mammal breasts</label>
+		<labelNoun>a pair of mammalian breasts</labelNoun>
+		<description>A group of breasts/nipples that mammals use to suckle their young.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MammalBreasts</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>MammalBreasts</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>MammalPenis</defName>
+		<label>mammal penis</label>
+		<labelNoun>a mammalian penis</labelNoun>
+		<description>A generic mammalian animal's penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MammalPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>MammalPenis</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>MammalVagina</defName>
+		<label>mammal vagina</label>
+		<labelNoun>a mammalian vagina</labelNoun>
+		<description>A generic vagina that probably belongs to some mammal.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MammalVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>MammalVagina</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>MammalAnus</defName>
+		<label>mammal anus</label>
+		<labelNoun>a mammalian anus</labelNoun>
+		<description>A generic mammalian animal's anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MammalAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>MammalAnus</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+	<!--DomesticDog-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>DogPenis</defName>
+		<label>dog penis</label>
+		<labelNoun>a dog penis</labelNoun>
+		<description>A dog penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DogPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DogPenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Small</li>
+			<li>Sheathed</li>
+			<li>Knotted</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>DogVagina</defName>
+		<label>dog vagina</label>
+		<labelNoun>a dog vagina</labelNoun>
+		<description>A dog vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DogVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DogVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>DogAnus</defName>
+		<label>dog anus</label>
+		<labelNoun>a dog anus</labelNoun>
+		<description>A dog anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DogAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DogAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Canidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>CaninePenis</defName>
+		<label>canine penis</label>
+		<labelNoun>a canine penis</labelNoun>
+		<description>A canine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CaninePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CaninePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Girthy</li>
+			<li>Sheathed</li>
+			<li>Knotted</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>CanineVagina</defName>
+		<label>canine vagina</label>
+		<labelNoun>a canine vagina</labelNoun>
+		<description>A canine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CanineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CanineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>CanineAnus</defName>
+		<label>canine anus</label>
+		<labelNoun>a canine anus</labelNoun>
+		<description>A canine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CanineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CanineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Vulpes-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>VulpinePenis</defName>
+		<label>vulpine penis</label>
+		<labelNoun>a vulpine penis</labelNoun>
+		<description>A vulpine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>VulpinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>VulpinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Small</li>
+			<li>Sheathed</li>
+			<li>Tapered</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>VulpineVagina</defName>
+		<label>vulpine vagina</label>
+		<labelNoun>a vulpine vagina</labelNoun>
+		<description>A vulpine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>VulpinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>VulpinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>VulpineAnus</defName>
+		<label>vulpine anus</label>
+		<labelNoun>a vulpine anus</labelNoun>
+		<description>A vulpine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>VulpineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>VulpineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Felidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>FelinePenis</defName>
+		<label>feline penis</label>
+		<labelNoun>a feline penis</labelNoun>
+		<description>A feline penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>FelinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>FelinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Barbed</li>
+			<li>Sheathed</li>
+			<li>Tapered</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>FelineVagina</defName>
+		<label>feline vagina</label>
+		<labelNoun>a feline vagina</labelNoun>
+		<description>A feline vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>FelineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>FelineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>FelineAnus</defName>
+		<label>feline anus</label>
+		<labelNoun>a feline anus</labelNoun>
+		<description>A feline anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>FelineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>FelineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Suidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>SwinePenis</defName>
+		<label>swine penis</label>
+		<labelNoun>a swine penis</labelNoun>
+		<description>A swine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>SwinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>SwinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Prehensile</li>
+			<li>Sheathed</li>
+			<li>Thin</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>SwineVagina</defName>
+		<label>swine vagina</label>
+		<labelNoun>a swine vagina</labelNoun>
+		<description>A swine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>SwineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>SwineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Loose</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>SwineAnus</defName>
+		<label>swine anus</label>
+		<labelNoun>a swine anus</labelNoun>
+		<description>A swine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>SwineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>SwineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Murine-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>MurinePenis</defName>
+		<label>murine penis</label>
+		<labelNoun>a murine penis</labelNoun>
+		<description>A murine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MurinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>MurinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Small</li>
+			<li>Thin</li>
+			<li>Sheathed</li>
+			<li>Tapered</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>MurineVagina</defName>
+		<label>murine vagina</label>
+		<labelNoun>a murine vagina</labelNoun>
+		<description>A murine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MurineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>MurineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>MurineAnus</defName>
+		<label>murine anus</label>
+		<labelNoun>a murine anus</labelNoun>
+		<description>A murine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>MurineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>MurineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Procyonidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>ProcyoninePenis</defName>
+		<label>procyonine penis</label>
+		<labelNoun>a procyonine penis</labelNoun>
+		<description>A procyonine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ProcyoninePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ProcyoninePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Long</li>
+			<li>Thin</li>
+			<li>Rigid</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>ProcyonineVagina</defName>
+		<label>procyonine vagina</label>
+		<labelNoun>a procyonine vagina</labelNoun>
+		<description>A procyonine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ProcyonineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ProcyonineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>ProcyonineAnus</defName>
+		<label>procyonine anus</label>
+		<labelNoun>a procyonine anus</labelNoun>
+		<description>A procyonine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ProcyonineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ProcyonineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Bovidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>BovinePenis</defName>
+		<label>bovine penis</label>
+		<labelNoun>a bovine penis</labelNoun>
+		<description>A bovine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>BovinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>BovinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Long</li>
+			<li>Thin</li>
+			<li>Tapered</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>BovineVagina</defName>
+		<label>bovine vagina</label>
+		<labelNoun>a bovine vagina</labelNoun>
+		<description>A bovine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>BovineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>BovineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Loose</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>BovineAnus</defName>
+		<label>bovine anus</label>
+		<labelNoun>a bovine anus</labelNoun>
+		<description>A bovine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>BovineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>BovineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Cervidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>CervinePenis</defName>
+		<label>cervine penis</label>
+		<labelNoun>a cervine penis</labelNoun>
+		<description>A cervine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CervinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CervinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Long</li>
+			<li>Tapered</li>
+			<li>Girthy</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>CervineVagina</defName>
+		<label>cervine vagina</label>
+		<labelNoun>a cervine vagina</labelNoun>
+		<description>A cervine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CervineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CervineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>CervineAnus</defName>
+		<label>cervine anus</label>
+		<labelNoun>a cervine anus</labelNoun>
+		<description>A cervine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CervineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CervineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Caprine-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>CaprinePenis</defName>
+		<label>caprine penis</label>
+		<labelNoun>a caprine penis</labelNoun>
+		<description>A caprine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CaprinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CaprinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Thin</li>
+			<li>Long</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>CaprineVagina</defName>
+		<label>caprine vagina</label>
+		<labelNoun>a caprine vagina</labelNoun>
+		<description>A caprine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CaprineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CaprineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>CaprineAnus</defName>
+		<label>caprine anus</label>
+		<labelNoun>a caprine anus</labelNoun>
+		<description>A caprine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CaprineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CaprineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Camelidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>CamelinePenis</defName>
+		<label>cameline penis</label>
+		<labelNoun>a cameline penis</labelNoun>
+		<description>A cameline penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CamelinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CamelinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Thin</li>
+			<li>Long</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>CamelineVagina</defName>
+		<label>cameline vagina</label>
+		<labelNoun>a cameline vagina</labelNoun>
+		<description>A cameline vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CamelineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CamelineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Loose</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>CamelineAnus</defName>
+		<label>cameline anus</label>
+		<labelNoun>a cameline anus</labelNoun>
+		<description>A cameline anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CamelineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CamelineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Equidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>EquinePenis</defName>
+		<label>equine penis</label>
+		<labelNoun>a equine penis</labelNoun>
+		<description>A equine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>EquinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>EquinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Girthy</li>
+			<li>Long</li>
+			<li>Flared</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>EquineVagina</defName>
+		<label>equine vagina</label>
+		<labelNoun>a equine vagina</labelNoun>
+		<description>A equine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>EquineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>EquineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Loose</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>EquineAnus</defName>
+		<label>equine anus</label>
+		<labelNoun>a equine anus</labelNoun>
+		<description>A equine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>EquineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>EquineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Ursine-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>UrsinePenis</defName>
+		<label>ursine penis</label>
+		<labelNoun>a ursine penis</labelNoun>
+		<description>A ursine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>UrsinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>UrsinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Long</li>
+			<li>Flared</li>
+			<li>Rigid</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>UrsineVagina</defName>
+		<label>ursine vagina</label>
+		<labelNoun>a ursine vagina</labelNoun>
+		<description>A ursine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>UrsineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>UrsineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>UrsineAnus</defName>
+		<label>ursine anus</label>
+		<labelNoun>a ursine anus</labelNoun>
+		<description>A ursine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>UrsineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>UrsineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Elephantidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>ElephantinePenis</defName>
+		<label>elephantine penis</label>
+		<labelNoun>a elephantine penis</labelNoun>
+		<description>A elephantine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ElephantinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ElephantinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Long</li>
+			<li>Flared</li>
+			<li>Girthy</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>ElephantineVagina</defName>
+		<label>elephantine vagina</label>
+		<labelNoun>a elephantine vagina</labelNoun>
+		<description>A elephantine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ElephantineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ElephantineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Loose</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>ElephantineAnus</defName>
+		<label>elephantine anus</label>
+		<labelNoun>a elephantine anus</labelNoun>
+		<description>A elephantine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ElephantineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ElephantineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Reptiles-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>CloacalHemiPenis</defName>
+		<label>cloacal hemipenis</label>
+		<labelNoun>a cloacal hemipenis</labelNoun>
+		<description>A cloacal hemipenis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CloacalHemiPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CloacalHemiPenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Small</li>
+			<li>Barbed</li>
+			<li>Internal</li>
+			<li>Multiple</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>CloacalHemiVagina</defName>
+		<label>cloacal hemivagina</label>
+		<labelNoun>a cloacal hemivagina</labelNoun>
+		<description>A cloacal hemivagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CloacalHemiVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CloacalHemiVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>CloacalAnus</defName>
+		<label>cloacal anus</label>
+		<labelNoun>a cloacal anus</labelNoun>
+		<description>A cloacal anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CloacalAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CloacalAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Primate-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>SimianPenis</defName>
+		<label>simian penis</label>
+		<labelNoun>a simian penis</labelNoun>
+		<description>A simian penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>SimianPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>SimianPenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Small</li>
+			<li>Thin</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>SimianVagina</defName>
+		<label>simian vagina</label>
+		<labelNoun>a simian vagina</labelNoun>
+		<description>A simian vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>SimianVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>SimianVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>SimianAnus</defName>
+		<label>simian anus</label>
+		<labelNoun>a simian anus</labelNoun>
+		<description>A simian anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>SimianAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>SimianAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Testudines-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>TestudinePenis</defName>
+		<label>testudine penis</label>
+		<labelNoun>a testudine penis</labelNoun>
+		<description>A testudine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>TestudinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>TestudinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Long</li>
+			<li>Girthy</li>
+			<li>Flared</li>
+			<li>Internal</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Amphibia/Avian-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>CloacalPenis</defName>
+		<label>cloacal penis</label>
+		<labelNoun>a cloacal penis</labelNoun>
+		<description>A cloacal penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>CloacalPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>CloacalPenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Rigid</li>
+			<li>Internal</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Rhincerotidae-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>RhinocerinePenis</defName>
+		<label>rhinocerine penis</label>
+		<labelNoun>a rhinocerine penis</labelNoun>
+		<description>A rhinocerine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>RhinocerinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>RhinocerinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Long</li>
+			<li>Flared</li>
+			<li>Girthy</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>RhinocerineVagina</defName>
+		<label>rhinocerine vagina</label>
+		<labelNoun>a rhinocerine vagina</labelNoun>
+		<description>A rhinocerine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>RhinocerineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>RhinocerineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Loose</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>RhinocerineAnus</defName>
+		<label>rhinocerine anus</label>
+		<labelNoun>a rhinocerine anus</labelNoun>
+		<description>A rhinocerine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>RhinocerineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>RhinocerineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Xenarthra-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>XenarthrinePenis</defName>
+		<label>xenarthrine penis</label>
+		<labelNoun>a xenarthrine penis</labelNoun>
+		<description>A xenarthrine penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>XenarthrinePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>XenarthrinePenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Prehensile</li>
+			<li>Sheathed</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>XenarthrineVagina</defName>
+		<label>xenarthrine vagina</label>
+		<labelNoun>a xenarthrine vagina</labelNoun>
+		<description>A xenarthrine vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>XenarthrineVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>XenarthrineVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>XenarthrineAnus</defName>
+		<label>xenarthrine anus</label>
+		<labelNoun>a xenarthrine anus</labelNoun>
+		<description>A xenarthrine anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>XenarthrineAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>XenarthrineAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+	<!--Dragon-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+        <defName>DragonBreasts</defName>
+        <label>dragon breasts</label>
+        <labelNoun>a pair of dragon breasts</labelNoun>
+        <description>A pair of dragon breasts.</description>
+        <descriptionHyperlinks>
+            <ThingDef>DragonBreasts</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>DragonBreasts</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>DragonPenis</defName>
+		<label>dragon penis</label>
+		<labelNoun>a dragon penis</labelNoun>
+		<description>A dragon penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DragonPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DragonPenis</spawnThingOnRemoved>
+		<partTags>
+			<li>Long</li>
+			<li>Tapered</li>
+			<li>Ridged</li>
+			<li>Girthy</li>
+			<li>Knotted</li>
+			<li>Internal</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>DragonVagina</defName>
+		<label>dragon vagina</label>
+		<labelNoun>a dragon vagina</labelNoun>
+		<description>A dragon vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DragonVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DragonVagina</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+			<li>Deep</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>DragonAnus</defName>
+		<label>dragon anus</label>
+		<labelNoun>a dragon anus</labelNoun>
+		<description>A dragon anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DragonAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DragonAnus</spawnThingOnRemoved>
+		<partTags>
+			<li>Tight</li>
+		</partTags>
+	</rjw.HediffDef_SexPart>
+</Defs>

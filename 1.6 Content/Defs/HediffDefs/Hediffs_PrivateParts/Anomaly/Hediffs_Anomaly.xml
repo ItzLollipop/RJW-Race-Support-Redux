@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Ghoul-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+        <defName>GhoulBreasts</defName>
+        <label>ghoul breasts</label>
+        <labelNoun>a pair of ghoul breasts</labelNoun>
+        <description>A pair of ghoul breasts.</description>
+        <descriptionHyperlinks>
+            <ThingDef>GhoulBreasts</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>GhoulBreasts</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>GhoulPenis</defName>
+        <label>ghoul penis</label>
+        <labelNoun>a ghoul penis</labelNoun>
+        <description>A ghoul penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>GhoulPenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>GhoulPenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>GhoulVagina</defName>
+        <label>ghoul vagina</label>
+        <labelNoun>a ghoul vagina</labelNoun>
+        <description>A ghoul vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>GhoulVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>GhoulVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>GhoulAnus</defName>
+        <label>ghoul anus</label>
+        <labelNoun>an ghoul anus</labelNoun>
+        <description>A ghoul anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>GhoulAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>GhoulAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Shamblers-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+        <defName>RottenBreasts</defName>
+        <label>rotten breasts</label>
+        <labelNoun>a pair of rotten breasts</labelNoun>
+        <description>A pair of rotten breasts.</description>
+        <descriptionHyperlinks>
+            <ThingDef>RottenBreasts</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>RottenBreasts</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>RottenPenis</defName>
+        <label>rotten penis</label>
+        <labelNoun>a rotten penis</labelNoun>
+        <description>A rotten penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>RottenPenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>RottenPenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>RottenVagina</defName>
+        <label>rotten vagina</label>
+        <labelNoun>a rotten vagina</labelNoun>
+        <description>A rotten vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>RottenVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>RottenVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>RottenAnus</defName>
+        <label>rotten anus</label>
+        <labelNoun>an rotten anus</labelNoun>
+        <description>A rotten anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>RottenAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>RottenAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Hybrid-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>ChimeraPenis</defName>
+        <label>chimera penis</label>
+        <labelNoun>a chimera penis</labelNoun>
+        <description>A chimera penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>ChimeraPenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>ChimeraPenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Long</li>
+            <li>Girthy</li>
+            <li>Barbed</li>
+            <li>Flared</li>
+            <li>Ridged</li>
+            <li>Knotted</li>
+            <li>Sheathed</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>ChimeraVagina</defName>
+        <label>chimera vagina</label>
+        <labelNoun>a chimera vagina</labelNoun>
+        <description>A chimera vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>ChimeraVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>ChimeraVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>ChimeraAnus</defName>
+        <label>chimera anus</label>
+        <labelNoun>an chimera anus</labelNoun>
+        <description>A chimera anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>ChimeraAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>ChimeraAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Fleshbeasts-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>FleshmassPenis</defName>
+        <label>fleshmass penis</label>
+        <labelNoun>a fleshmass penis</labelNoun>
+        <description>A fleshmass penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>FleshmassPenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>FleshmassPenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Long</li>
+            <li>Prehensile</li>
+            <li>Thin</li>
+            <li>Tapered</li>
+            <li>Multiple</li>
+            <li>Internal</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>FleshmassVagina</defName>
+        <label>fleshmass vagina</label>
+        <labelNoun>a fleshmass vagina</labelNoun>
+        <description>A fleshmass vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>FleshmassVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>FleshmassVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>FleshmassAnus</defName>
+        <label>fleshmass anus</label>
+        <labelNoun>an fleshmass anus</labelNoun>
+        <description>A fleshmass anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>FleshmassAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>FleshmassAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Bioferrite-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>BioferritePenis</defName>
+        <label>bioferrite penis</label>
+        <labelNoun>a bioferrite penis</labelNoun>
+        <description>A bioferrite penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BioferritePenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BioferritePenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Rigid</li>
+            <li>Solid</li>
+            <li>Ridged</li>
+            <li>Multiple</li>
+            <li>Sheathed</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>BioferriteVagina</defName>
+        <label>bioferrite vagina</label>
+        <labelNoun>a bioferrite vagina</labelNoun>
+        <description>A bioferrite vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BioferriteVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BioferriteVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>BioferriteAnus</defName>
+        <label>bioferrite anus</label>
+        <labelNoun>an bioferrite anus</labelNoun>
+        <description>A bioferrite anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BioferriteAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BioferriteAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Desiccated-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>DesiccatedPenis</defName>
+        <label>desiccated penis</label>
+        <labelNoun>a desiccated penis</labelNoun>
+        <description>A desiccated penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>DesiccatedPenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>DesiccatedPenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Thin</li>
+            <li>Solid</li>
+            <li>Ridged</li>
+            <li>Small</li>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>DesiccatedVagina</defName>
+        <label>desiccated vagina</label>
+        <labelNoun>a desiccated vagina</labelNoun>
+        <description>A desiccated vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>DesiccatedVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>DesiccatedVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>DesiccatedAnus</defName>
+        <label>desiccated anus</label>
+        <labelNoun>an desiccated anus</labelNoun>
+        <description>A desiccated anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>DesiccatedAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>DesiccatedAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Gorebeasts-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>GorePenis</defName>
+        <label>gore penis</label>
+        <labelNoun>a gore penis</labelNoun>
+        <description>A gore penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>GorePenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>GorePenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Long</li>
+            <li>Girthy</li>
+            <li>Multiple</li>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>GoreVagina</defName>
+        <label>gore vagina</label>
+        <labelNoun>a gore vagina</labelNoun>
+        <description>A gore vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>GoreVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>GoreVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Loose</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>GoreAnus</defName>
+        <label>gore anus</label>
+        <labelNoun>an gore anus</labelNoun>
+        <description>A gore anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>GoreAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>GoreAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Loose</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+</Defs>

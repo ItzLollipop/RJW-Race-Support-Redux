@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--DomesticDog-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>BarkPenis</defName>
+		<label>bark penis</label>
+		<description>A bark penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>BarkVagina</defName>
+		<label>bark vagina</label>
+		<description>A bark vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.40</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>BarkAnus</defName>
+		<label>bark anus</label>
+		<description>A bark anus.</description>
+		<statBases>
+			<MarketValue>100</MarketValue>
+			<Mass>0.12</Mass>
+		</statBases>
+	</ThingDef>
+</Defs>

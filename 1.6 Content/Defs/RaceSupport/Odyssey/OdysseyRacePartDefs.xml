@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--Hippopotamidae-->
+	<rjw.RacePartDef>
+		<defName>HippopotaminePenis</defName>
+		<hediffName>HippopotaminePenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>HippopotamineVagina</defName>
+		<hediffName>HippopotamineVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>HippopotamineAnus</defName>
+		<hediffName>HippopotamineAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Mustelidae-->
+	<rjw.RacePartDef>
+		<defName>MustelinePenis</defName>
+		<hediffName>MustelinePenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>MustelineVagina</defName>
+		<hediffName>MustelineVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>MustelineAnus</defName>
+		<hediffName>MustelineAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Pinnipedia-->
+	<rjw.RacePartDef>
+		<defName>MarinePenis</defName>
+		<hediffName>MarinePenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>MarineVagina</defName>
+		<hediffName>MarineVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>MarineAnus</defName>
+		<hediffName>MarineAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Crustaceans-->
+	<rjw.RacePartDef>
+		<defName>Gonopods</defName>
+		<hediffName>Gonopods</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>Gonopores</defName>
+		<hediffName>Gonopores</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>CrustaceanAnus</defName>
+		<hediffName>CrustaceanAnus</hediffName>
+	</rjw.RacePartDef>
+</Defs>

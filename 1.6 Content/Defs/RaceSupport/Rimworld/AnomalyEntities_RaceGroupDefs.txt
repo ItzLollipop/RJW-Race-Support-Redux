@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!--Ghoul-->
+	<rjw.RaceGroupDef>
+		<defName>Ghoul_Group</defName>
+		<raceNames>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Ghoul</li>
+		</raceNames>
+		<anuses>
+			<li>GhoulAnus</li>
+		</anuses>
+		<femaleBreasts>
+			<li>GhoulBreasts</li>
+		</femaleBreasts>
+		<femaleGenitals>
+			<li>GhoulVagina</li>
+		</femaleGenitals>
+		<maleBreasts>
+			<li>GhoulBreasts</li>
+		</maleBreasts>
+		<maleGenitals>
+			<li>GhoulPenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Skin</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+	<!--Shamblers-->
+	<rjw.RaceGroupDef>
+		<defName>Shamblers_Group</defName>
+		<raceNames>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">ShamblerSoldier</li>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">ShamblerSwarmer</li>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">ShamblerGorehulk</li>
+		</raceNames>
+		<anuses>
+			<li>RottenAnus</li>
+		</anuses>
+		<femaleBreasts>
+			<li>RottenBreasts</li>
+		</femaleBreasts>
+		<femaleGenitals>
+			<li>RottenVagina</li>
+		</femaleGenitals>
+		<maleBreasts>
+			<li>RottenBreasts</li>
+		</maleBreasts>
+		<maleGenitals>
+			<li>RottenPenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Skin</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+	<!--Chimera-->
+	<rjw.RaceGroupDef>
+		<defName>Chimera_Group</defName>
+		<raceNames>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Chimera</li>
+		</raceNames>
+		<anuses>
+			<li>ChimeraAnus</li>
+		</anuses>
+		<femaleGenitals>
+			<li>ChimeraVagina</li>
+		</femaleGenitals>
+		<maleGenitals>
+			<li>ChimeraPenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Fur</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+	<!--Fleshbeasts-->
+	<rjw.RaceGroupDef>
+		<defName>Fleshbeasts_Group</defName>
+		<raceNames>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Toughspike</li>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Trispike</li>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Fingerspike</li>
+		</raceNames>
+		<anuses>
+			<li>FleshmassAnus</li>
+		</anuses>
+		<femaleGenitals>
+			<li>FleshmassVagina</li>
+		</femaleGenitals>
+		<maleGenitals>
+			<li>FleshmassPenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Skin</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+	<!--Bioferrite-->
+	<rjw.RaceGroupDef>
+		<defName>Bioferrite_Group</defName>
+		<raceNames>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Noctol</li>
+		</raceNames>
+		<anuses>
+			<li>BioferriteAnus</li>
+		</anuses>
+		<femaleGenitals>
+			<li>BioferriteVagina</li>
+		</femaleGenitals>
+		<maleGenitals>
+			<li>BioferritePenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Chitin</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+	<!--Desiccated-->
+	<rjw.RaceGroupDef>
+		<defName>Desiccated_Group</defName>
+		<raceNames>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Sightstealer</li>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Revenant</li>
+		</raceNames>
+		<anuses>
+			<li>DesiccatedAnus</li>
+		</anuses>
+		<femaleGenitals>
+			<li>DesiccatedVagina</li>
+		</femaleGenitals>
+		<maleGenitals>
+			<li>DesiccatedPenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Skin</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+	<!--Gorebeasts-->
+	<rjw.RaceGroupDef>
+		<defName>Gorebeast_Group</defName>
+		<raceNames>
+			<li MayRequire="Ludeon.RimWorld.Anomaly">Gorehulk</li>
+		</raceNames>
+		<anuses>
+			<li>GoreAnus</li>
+		</anuses>
+		<femaleGenitals>
+			<li>GoreVagina</li>
+		</femaleGenitals>
+		<maleGenitals>
+			<li>GorePenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Skin</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+</Defs>

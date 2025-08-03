@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+	<v1.6>
+		<li>1.6 Content</li>
+		<!--Odyssey-->
+		<li IfModActive="Ludeon.RimWorld.Odyssey">1.6 Content/Defs/HediffDefs/Hediffs_PrivateParts/Odyssey</li>
+		<li IfModActive="Ludeon.RimWorld.Odyssey">1.6 Content/Defs/RaceSupport/Odyssey</li>
+		<li IfModActive="Ludeon.RimWorld.Odyssey">1.6 Content/Defs/ThingDefs/Odyssey</li>
+		<!--Anomaly-->
+		<li IfModActive="Ludeon.RimWorld.Anomaly">1.6 Content/Defs/HediffDefs/Hediffs_PrivateParts/Anomaly</li>
+		<li IfModActive="Ludeon.RimWorld.Anomaly">1.6 Content/Defs/RaceSupport/Anomaly</li>
+		<li IfModActive="Ludeon.RimWorld.Anomaly">1.6 Content/Defs/ThingDefs/Anomaly</li>
+		<!--Ideology-->
+		<li IfModActive="Ludeon.RimWorld.Ideology">1.6 Content/Defs/HediffDefs/Hediffs_PrivateParts/Ideology</li>
+		<li IfModActive="Ludeon.RimWorld.Ideology">1.6 Content/Defs/RaceSupport/Ideology</li>
+		<li IfModActive="Ludeon.RimWorld.Ideology">1.6 Content/Defs/ThingDefs/Ideology</li>
+	</v1.6>
+</loadFolders>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Anima-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>BarkPenis</defName>
+        <label>bark penis</label>
+        <labelNoun>a bark penis</labelNoun>
+        <description>A bark penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BarkPenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BarkPenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Solid</li>
+            <li>Ridged</li>
+            <li>Small</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>BarkVagina</defName>
+        <label>bark vagina</label>
+        <labelNoun>a bark vagina</labelNoun>
+        <description>A bark vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BarkVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BarkVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+            <li>Solid</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>BarkAnus</defName>
+        <label>bark anus</label>
+        <labelNoun>a bark anus</labelNoun>
+        <description>A bark anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BarkAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BarkAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+            <li>Solid</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+</Defs>

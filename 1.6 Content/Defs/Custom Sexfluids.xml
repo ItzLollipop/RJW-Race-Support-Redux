@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+	<rjw.SexFluidDef>
+		<defName>EctoFluid</defName>
+		<label>ectoplasm fluid</label>
+		<filth>FilthEctoFluid</filth>
+		<alwaysProduceFilth>true</alwaysProduceFilth>
+		<baseNutritionCost>0.05</baseNutritionCost>
+	</rjw.SexFluidDef>
+
+	<ThingDef ParentName="BaseCumFilth">
+		<defName>FilthEctoFluid</defName>
+		<label>ethereal splater</label>
+		<statBases>
+			<Beauty>-15</Beauty>
+			<Cleanliness>-1</Cleanliness>
+		</statBases>
+		<graphicData>
+			<color>(190, 212, 255, 110)</color>
+		</graphicData>
+	</ThingDef>
+
+	<rjw.SexFluidDef>
+		<defName>DemonSpunk</defName>
+		<label>demonic cum</label>
+		<filth>FilthDemonSpunk</filth>
+		<alwaysProduceFilth>true</alwaysProduceFilth>
+		<baseNutritionCost>0.05</baseNutritionCost>
+	</rjw.SexFluidDef>
+
+	<ThingDef ParentName="BaseCumFilth">
+		<defName>FilthDemonSpunk</defName>
+		<label>foul cum splater</label>
+		<statBases>
+			<Beauty>-25</Beauty>
+			<Cleanliness>-12</Cleanliness>
+		</statBases>
+		<graphicData>
+			<color>(185, 110, 225, 110)</color>
+		</graphicData>
+	</ThingDef>
+
+	<rjw.SexFluidDef>
+        <defName>BioferriteCum</defName>
+        <label>bioferrite cum</label>
+        <filth>FilthBioferriteCum</filth>
+        <alwaysProduceFilth>true</alwaysProduceFilth>
+        <baseNutritionCost>0.05</baseNutritionCost>
+    </rjw.SexFluidDef>
+
+    <ThingDef ParentName="BaseCumFilth">
+        <defName>FilthBioferriteCum</defName>
+        <label>bioferrite splater</label>
+        <statBases>
+            <Beauty>-10</Beauty>
+			<Cleanliness>-0.5</Cleanliness>
+		</statBases>
+        <graphicData>
+            <color>(103, 77, 60, 110)</color>
+        </graphicData>
+    </ThingDef>
+
+    <rjw.SexFluidDef>
+        <defName>BioferriteLube</defName>
+        <label>bioferrite lubricant</label>
+        <filth>FilthBioferriteLube</filth>
+        <alwaysProduceFilth>true</alwaysProduceFilth>
+        <baseNutritionCost>0.05</baseNutritionCost>
+    </rjw.SexFluidDef>
+
+    <ThingDef ParentName="BaseCumFilth">
+        <defName>FilthBioferriteLube</defName>
+        <label>bioferrite lubricant splater</label>
+        <statBases>
+            <Beauty>-8</Beauty>
+			<Cleanliness>-0.4</Cleanliness>
+		</statBases>
+        <graphicData>
+            <color>(103, 77, 60, 90)</color>
+        </graphicData>
+    </ThingDef>
+	
+	<rjw.SexFluidDef>
+        <defName>BioferriteMilk</defName>
+        <label>bioferrite milk</label>
+        <filth>FilthBioferriteMilk</filth>
+        <alwaysProduceFilth>true</alwaysProduceFilth>
+        <baseNutritionCost>0.05</baseNutritionCost>
+    </rjw.SexFluidDef>
+
+    <ThingDef ParentName="BaseCumFilth">
+        <defName>FilthBioferriteMilk</defName>
+        <label>bioferrite milk splatter</label>
+        <statBases>
+            <Beauty>-5</Beauty>
+            <Cleanliness>-0.2</Cleanliness>
+        </statBases>
+        <graphicData>
+            <color>(120, 90, 70, 90)</color>
+        </graphicData>
+    </ThingDef>
+</Defs>

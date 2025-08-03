@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!--Hippopotamidae-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>HippopotaminePenis</defName>
+        <label>hippopotamine penis</label>
+        <labelNoun>a hippopotamine penis</labelNoun>
+        <description>A hippopotamine penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>HippopotaminePenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>HippopotaminePenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Long</li>
+            <li>Girthy</li>
+            <li>Tapered</li>
+            <li>Internal</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>HippopotamineVagina</defName>
+        <label>hippopotamine vagina</label>
+        <labelNoun>a hippopotamine vagina</labelNoun>
+        <description>A hippopotamine vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>HippopotamineVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>HippopotamineVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Loose</li>
+            <li>Deep</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>HippopotamineAnus</defName>
+        <label>hippopotamine anus</label>
+        <labelNoun>a hippopotamine anus</labelNoun>
+        <description>A hippopotamine anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>HippopotamineAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>HippopotamineAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Mustelidae-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>MustelinePenis</defName>
+        <label>musteline penis</label>
+        <labelNoun>a musteline penis</labelNoun>
+        <description>A musteline penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>MustelinePenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>MustelinePenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Small</li>
+            <li>Thin</li>
+            <li>Tapered</li>
+            <li>Sheathed</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>MustelineVagina</defName>
+        <label>musteline vagina</label>
+        <labelNoun>a musteline vagina</labelNoun>
+        <description>A musteline vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>MustelineVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>MustelineVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>MustelineAnus</defName>
+        <label>musteline anus</label>
+        <labelNoun>a musteline anus</labelNoun>
+        <description>A musteline anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>MustelineAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>MustelineAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Pinnipedia-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>MarinePenis</defName>
+        <label>marine penis</label>
+        <labelNoun>a marine penis</labelNoun>
+        <description>A marine penis.</description>
+        <descriptionHyperlinks>
+            <ThingDef>MarinePenis</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>MarinePenis</spawnThingOnRemoved>
+        <partTags>
+            <li>Long</li>
+            <li>Girthy</li>
+            <li>Tapered</li>
+            <li>Internal</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>MarineVagina</defName>
+        <label>marine vagina</label>
+        <labelNoun>a marine vagina</labelNoun>
+        <description>A marine vagina.</description>
+        <descriptionHyperlinks>
+            <ThingDef>MarineVagina</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>MarineVagina</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+            <li>Internal</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>MarineAnus</defName>
+        <label>marine anus</label>
+        <labelNoun>a marine anus</labelNoun>
+        <description>A marine anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>MarineAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>MarineAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Tight</li>
+            <li>Internal</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+<!--Crustaceans-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+        <defName>Gonopods</defName>
+        <label>gonopods</label>
+        <labelNoun>a pair of gonopods</labelNoun>
+        <description>A pair of gonopods.</description>
+        <descriptionHyperlinks>
+            <ThingDef>Gonopods</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>Gonopods</spawnThingOnRemoved>
+        <genitalTags>
+            <li>CanPenetrate</li>
+            <li>CanFertilizeEgg</li>
+        </genitalTags>
+        <partTags>
+            <li>Multiple</li>
+            <li>Prehensile</li>
+            <li>Internal</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+        <defName>Gonopores</defName>
+        <label>gonopores</label>
+        <labelNoun>a pair of gonopores</labelNoun>
+        <description>A pair of gonopores.</description>
+        <descriptionHyperlinks>
+            <ThingDef>Gonopores</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>Gonopores</spawnThingOnRemoved>
+        <genitalTags>
+            <li>CanBePenetrated</li>
+        </genitalTags>
+        <partTags>
+            <li>Internal</li>
+            <li>Internal</li>
+        </partTags>
+        <comps>
+            <li Class="rjw.HediffCompProperties_Ovipositor">
+                <eggCount>4</eggCount>
+                <eggIntervalTicks>12000~60000</eggIntervalTicks>
+            </li>
+        </comps>
+    </rjw.HediffDef_SexPart>
+
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+        <defName>CrustaceanAnus</defName>
+        <label>crustacean anus</label>
+        <labelNoun>a crustacean anus</labelNoun>
+        <description>A crustacean anus.</description>
+        <descriptionHyperlinks>
+            <ThingDef>CrustaceanAnus</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>CrustaceanAnus</spawnThingOnRemoved>
+        <partTags>
+            <li>Rigid</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+</Defs>
