@@ -1,4 +1,5 @@
 # RJW Race Support for Rimworld Version 1.6
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Primarily serves purpose to serve as an index for applying hediffs to all pawns in Rimworld. End goal is to have seamless support with RJW Genes Redux.
 
 This mod requires RJW and must be placed somewhere below it.
