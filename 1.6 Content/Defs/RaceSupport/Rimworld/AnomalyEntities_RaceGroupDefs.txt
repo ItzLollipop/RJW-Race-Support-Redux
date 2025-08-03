@@ -24,7 +24,14 @@
 		<tags>
 			<li>Skin</li>
 		</tags>
+		<!--To Be Determined-->
 		<raceSexDrive>1</raceSexDrive>
+        <hasSingleGender>false</hasSingleGender>
+        <hasSexNeed>true</hasSexNeed>
+        <hasFertility>true</hasFertility>
+        <hasPregnancy>true</hasPregnancy>
+        <oviPregnancy>false</oviPregnancy>
+        <ImplantEggs>false</ImplantEggs>
 	</rjw.RaceGroupDef>
 <!--Shamblers-->
 	<rjw.RaceGroupDef>
@@ -52,7 +59,14 @@
 		<tags>
 			<li>Skin</li>
 		</tags>
+		<!--Eventually make shamblers able to create more shamblers by raping soon to be dead pawns or corpses-->
 		<raceSexDrive>1</raceSexDrive>
+        <hasSingleGender>true</hasSingleGender>
+        <hasSexNeed>true</hasSexNeed>
+        <hasFertility>false</hasFertility>
+        <hasPregnancy>false</hasPregnancy>
+        <oviPregnancy>false</oviPregnancy>
+        <ImplantEggs>false</ImplantEggs>
 	</rjw.RaceGroupDef>
 <!--Chimera-->
 	<rjw.RaceGroupDef>
@@ -72,7 +86,12 @@
 		<tags>
 			<li>Fur</li>
 		</tags>
+		<!--Eventually make chimeras able to do something-->
 		<raceSexDrive>1</raceSexDrive>
+        <hasSingleGender>true</hasSingleGender>
+        <hasSexNeed>true</hasSexNeed>
+        <hasFertility>true</hasFertility>
+        <hasPregnancy>true</hasPregnancy>
 	</rjw.RaceGroupDef>
 <!--Fleshbeasts-->
 	<rjw.RaceGroupDef>
@@ -85,8 +104,9 @@
 		<anuses>
 			<li>FleshmassAnus</li>
 		</anuses>
+		<femaleBreasts>
+        </femaleBreasts>
 		<femaleGenitals>
-			<li>FleshmassVagina</li>
 		</femaleGenitals>
 		<maleGenitals>
 			<li>FleshmassPenis</li>
@@ -94,7 +114,14 @@
 		<tags>
 			<li>Skin</li>
 		</tags>
+		<!--Eventually make fleshbeasts able to inject some sort of parasite in pawns to create creatures like from the series the thing-->
 		<raceSexDrive>1</raceSexDrive>
+        <hasSingleGender>true</hasSingleGender>
+        <hasSexNeed>true</hasSexNeed>
+        <hasFertility>false</hasFertility>
+        <hasPregnancy>false</hasPregnancy>
+        <oviPregnancy>false</oviPregnancy>
+        <ImplantEggs>false</ImplantEggs>
 	</rjw.RaceGroupDef>
 <!--Bioferrite-->
 	<rjw.RaceGroupDef>
@@ -105,8 +132,9 @@
 		<anuses>
 			<li>BioferriteAnus</li>
 		</anuses>
+		<femaleBreasts>
+        </femaleBreasts>
 		<femaleGenitals>
-			<li>BioferriteVagina</li>
 		</femaleGenitals>
 		<maleGenitals>
 			<li>BioferritePenis</li>
@@ -114,7 +142,14 @@
 		<tags>
 			<li>Chitin</li>
 		</tags>
+		<!--To Be Determined-->
 		<raceSexDrive>1</raceSexDrive>
+        <hasSingleGender>true</hasSingleGender>
+        <hasSexNeed>false</hasSexNeed>
+        <hasFertility>false</hasFertility>
+        <hasPregnancy>false</hasPregnancy>
+        <oviPregnancy>false</oviPregnancy>
+        <ImplantEggs>false</ImplantEggs>
 	</rjw.RaceGroupDef>
 <!--Desiccated-->
 	<rjw.RaceGroupDef>
@@ -126,6 +161,8 @@
 		<anuses>
 			<li>DesiccatedAnus</li>
 		</anuses>
+		<femaleBreasts>
+        </femaleBreasts>
 		<femaleGenitals>
 			<li>DesiccatedVagina</li>
 		</femaleGenitals>
@@ -135,7 +172,14 @@
 		<tags>
 			<li>Skin</li>
 		</tags>
+		<!--To Be Determined-->
 		<raceSexDrive>1</raceSexDrive>
+        <hasSingleGender>false</hasSingleGender>
+        <hasSexNeed>false</hasSexNeed>
+        <hasFertility>false</hasFertility>
+        <hasPregnancy>false</hasPregnancy>
+        <oviPregnancy>false</oviPregnancy>
+        <ImplantEggs>false</ImplantEggs>
 	</rjw.RaceGroupDef>
 <!--Gorebeasts-->
 	<rjw.RaceGroupDef>
@@ -146,6 +190,8 @@
 		<anuses>
 			<li>GoreAnus</li>
 		</anuses>
+		<femaleBreasts>
+        </femaleBreasts>
 		<femaleGenitals>
 			<li>GoreVagina</li>
 		</femaleGenitals>
@@ -155,6 +201,13 @@
 		<tags>
 			<li>Skin</li>
 		</tags>
+		<!--To Be Determined-->
 		<raceSexDrive>1</raceSexDrive>
+        <hasSingleGender>false</hasSingleGender>
+        <hasSexNeed>false</hasSexNeed>
+        <hasFertility>false</hasFertility>
+        <hasPregnancy>false</hasPregnancy>
+        <oviPregnancy>false</oviPregnancy>
+        <ImplantEggs>false</ImplantEggs>
 	</rjw.RaceGroupDef>
 </Defs>

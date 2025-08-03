@@ -156,6 +156,7 @@
 			<li>GuineaPig</li>
 			<li>Chinchilla</li>
 			<li>Capybara</li>
+			<li MayRequire="Ludeon.RimWorld.Biotech">WasteRat</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">PrairieDog</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Porcupine</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Megavole</li>
@@ -190,6 +191,7 @@
 			<li>Bison</li>
 			<li>Gazelle</li>
 			<li>Boomalope</li>
+			<li MayRequire="Ludeon.RimWorld.Biotech">Toxalope</li>
 		</raceNames>
 		<anuses>
 			<li>BovineAnus</li>
@@ -471,6 +473,12 @@
 	<rjw.RaceGroupDef>
 		<defName>Avian_Group</defName>
 		<raceNames>
+			<li>Emu</li>
+			<li>Turkey</li>
+			<li>Cassowary</li>
+			<li>Chicken</li>
+			<li>Goose</li>
+			<li>Duck</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Quail</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Penguin</li>
 			<li MayRequire="Ludeon.RimWorld.Odyssey">Peacock</li>
