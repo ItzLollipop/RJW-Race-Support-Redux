@@ -406,7 +406,7 @@
 	</rjw.RaceGroupDef>
 	<!--Reptile-->
 	<rjw.RaceGroupDef>
-		<defName>Reptile</defName>
+		<defName>Reptile_Group</defName>
 		<raceNames>
 			<li>Iguana</li>
 			<li>Cobra</li>
@@ -673,7 +673,7 @@
 			<li>Gonopods</li>
 		</maleGenitals>
 		<tags>
-			<li>Fur</li>
+			<li>Chitin</li>
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>
@@ -701,6 +701,31 @@
 		</maleGenitals>
 		<tags>
 			<li>Fur</li>
+		</tags>
+		<raceSexDrive>1</raceSexDrive>
+	</rjw.RaceGroupDef>
+	<!--Dragon-->
+	<rjw.RaceGroupDef>
+		<defName>Dragon_Group</defName>
+		<raceNames>
+		</raceNames>
+		<anuses>
+			<li>DragonAnus</li>
+		</anuses>
+		<femaleBreasts>
+			<li>DragonBreasts</li>
+		</femaleBreasts>
+		<femaleGenitals>
+			<li>DragonVagina</li>
+		</femaleGenitals>
+		<maleBreasts>
+			<li>DragonBreasts</li>
+		</maleBreasts>
+		<maleGenitals>
+			<li>DragonPenis</li>
+		</maleGenitals>
+		<tags>
+			<li>Scales</li>
 		</tags>
 		<raceSexDrive>1</raceSexDrive>
 	</rjw.RaceGroupDef>

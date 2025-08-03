@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!--Modded Template, Use Find&Replace to quickly create
+	=======================================================
+	<rjw.RacePartDef>
+		<defName>PlaceholderBreasts</defName>
+		<hediffName>PlaceholderBreasts</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>PlaceholderPenis</defName>
+		<hediffName>PlaceholderPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>PlaceholderVagina</defName>
+		<hediffName>PlaceholderVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>PlaceholderAnus</defName>
+		<hediffName>PlaceholderAnus</hediffName>
+	</rjw.RacePartDef>
+	-->
+<!--Demon-->
+	<rjw.RacePartDef>
+		<defName>DemonBreasts</defName>
+		<hediffName>DemonBreasts</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>DemonPenis</defName>
+		<hediffName>DemonPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>DemonTentaclePenis</defName>
+		<hediffName>DemonTentaclePenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>DemonVagina</defName>
+		<hediffName>DemonVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>DemonAnus</defName>
+		<hediffName>DemonAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Elf-->
+	<rjw.RacePartDef>
+		<defName>ElfBreasts</defName>
+		<hediffName>ElfBreasts</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>ElfPenis</defName>
+		<hediffName>ElfPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>ElfVagina</defName>
+		<hediffName>ElfVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>ElfAnus</defName>
+		<hediffName>ElfAnus</hediffName>
+	</rjw.RacePartDef>
+<!--Orc-->
+	<rjw.RacePartDef>
+		<defName>OrcBreasts</defName>
+		<hediffName>OrcBreasts</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>OrcPenis</defName>
+		<hediffName>OrcPenis</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>OrcVagina</defName>
+		<hediffName>OrcVagina</hediffName>
+	</rjw.RacePartDef>
+	<rjw.RacePartDef>
+		<defName>OrcAnus</defName>
+		<hediffName>OrcAnus</hediffName>
+	</rjw.RacePartDef>
+</Defs>

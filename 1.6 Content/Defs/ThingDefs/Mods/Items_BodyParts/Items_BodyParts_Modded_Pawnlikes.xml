@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!--Modded Template, Use Find&Replace to quickly create
+	=======================================================
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>PlaceholderBreasts</defName>
+		<label>placeholder breasts</label>
+		<description>A pair of placeholder breasts.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>PlaceholderPenis</defName>
+		<label>placeholder penis</label>
+		<description>A placeholder penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>PlaceholderVagina</defName>
+		<label>placeholder vagina</label>
+		<description>A placeholder vagina.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>PlaceholderAnus</defName>
+		<label>placeholder anus</label>
+		<description>A placeholder anus.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.120</Mass>
+		</statBases>
+	</ThingDef>
+	-->
+
+<!--Demon-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>DemonBreasts</defName>
+		<label>demon breasts</label>
+		<description>A pair of demon breasts.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>DemonPenis</defName>
+		<label>demon penis</label>
+		<description>A demon penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>DemonTentaclePenis</defName>
+		<label>demon tentacle penis</label>
+		<description>A demon tentacle penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>DemonVagina</defName>
+		<label>demon vagina</label>
+		<description>A vagina that probably belongs to some demon.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>DemonAnus</defName>
+		<label>demon anus</label>
+		<description>A anus that probably belongs to some demon.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.120</Mass>
+		</statBases>
+	</ThingDef>
+<!--Elf-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>ElfBreasts</defName>
+		<label>Elf breasts</label>
+		<description>A pair of Elf breasts.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>ElfPenis</defName>
+		<label>Elf penis</label>
+		<description>A Elf penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>ElfVagina</defName>
+		<label>elf vagina</label>
+		<description>A vagina that probably belongs to some elf.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>ElfAnus</defName>
+		<label>elf anus</label>
+		<description>A anus that probably belongs to some elf.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.120</Mass>
+		</statBases>
+	</ThingDef>
+<!--Orc-->
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseBreast">
+		<defName>OrcBreasts</defName>
+		<label>Orc breasts</label>
+		<description>A pair of Orc breasts.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenMale">
+		<defName>OrcPenis</defName>
+		<label>Orc penis</label>
+		<description>A Orc penis.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+	
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseGenFemale">
+		<defName>OrcVagina</defName>
+		<label>Orc vagina</label>
+		<description>A vagina that probably belongs to some Orc.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.4</Mass>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="rjw_BodyPartNaturalBaseAnus">
+		<defName>OrcAnus</defName>
+		<label>Orc anus</label>
+		<description>A anus that probably belongs to some Orc.</description>
+		<statBases>
+			<MarketValue>250</MarketValue>
+			<Mass>0.120</Mass>
+		</statBases>
+	</ThingDef>
+</Defs>

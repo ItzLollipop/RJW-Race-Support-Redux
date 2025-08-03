@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!--Modded Template, Use Find&Replace to quickly create
+	=======================================================
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+		<defName>PlaceholderBreasts</defName>
+		<label>placeholder breasts</label>
+		<labelNoun>a pair of placeholder breasts</labelNoun>
+		<description>A pair of placeholder breasts.</description>
+		<descriptionHyperlinks>
+			<ThingDef>PlaceholderBreasts</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>PlaceholderBreasts</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>PlaceholderPenis</defName>
+		<label>placeholder penis</label>
+		<labelNoun>a placeholder penis</labelNoun>
+		<description>A placeholder penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>PlaceholderPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>PlaceholderPenis</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>PlaceholderVagina</defName>
+		<label>placeholder vagina</label>
+		<labelNoun>a placeholder vagina</labelNoun>
+		<description>A placeholder vagina.</description>
+		<descriptionHyperlinks>
+			<ThingDef>PlaceholderVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>PlaceholderVagina</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>PlaceholderAnus</defName>
+		<label>placeholder anus</label>
+		<labelNoun>a placeholder anus</labelNoun>
+		<description>A placeholder anus.</description>
+		<descriptionHyperlinks>
+			<ThingDef>PlaceholderAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>PlaceholderAnus</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+	-->
+<!--Demon-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+		<defName>DemonBreasts</defName>
+		<label>demon breasts</label>
+		<labelNoun>a pair of demon breasts</labelNoun>
+		<description>A pair of demon breasts.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DemonBreasts</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DemonBreasts</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>DemonPenis</defName>
+		<label>demon penis</label>
+		<labelNoun>a demon penis</labelNoun>
+		<description>A demon penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DemonPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DemonPenis</spawnThingOnRemoved>
+		<fluid>DemonSpunk</fluid>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>DemonTentaclePenis</defName>
+		<label>demon tentacle penis</label>
+		<labelNoun>a demon tentacle penis</labelNoun>
+		<description>A demon tentacle penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DemonTentaclePenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DemonTentaclePenis</spawnThingOnRemoved>
+		<fluid>DemonSpunk</fluid>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>DemonVagina</defName>
+		<label>Demon vagina</label>
+		<labelNoun>a Demon vagina</labelNoun>
+		<description>A vagina that probably belongs to some Demon.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DemonVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DemonVagina</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>DemonAnus</defName>
+		<label>Demon anus</label>
+		<labelNoun>a Demon anus</labelNoun>
+		<description>A anus that probably belongs to some demon.</description>
+		<descriptionHyperlinks>
+			<ThingDef>DemonAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>DemonAnus</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+<!--Elf-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+		<defName>ElfBreasts</defName>
+		<label>elf breasts</label>
+		<labelNoun>a pair of elf breasts</labelNoun>
+		<description>A pair of elf breasts.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ElfBreasts</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ElfBreasts</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>ElfPenis</defName>
+		<label>elf penis</label>
+		<labelNoun>a elf penis</labelNoun>
+		<description>A elf penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ElfPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ElfPenis</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>ElfVagina</defName>
+		<label>elf vagina</label>
+		<labelNoun>a elf vagina</labelNoun>
+		<description>A vagina that probably belongs to some elf.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ElfVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ElfVagina</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>ElfAnus</defName>
+		<label>elf anus</label>
+		<labelNoun>a elf anus</labelNoun>
+		<description>A anus that probably belongs to some elf.</description>
+		<descriptionHyperlinks>
+			<ThingDef>ElfAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>ElfAnus</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+<!--Orc-->
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+		<defName>OrcBreasts</defName>
+		<label>Orc breasts</label>
+		<labelNoun>a pair of Orc breasts</labelNoun>
+		<description>A pair of Orc breasts.</description>
+		<descriptionHyperlinks>
+			<ThingDef>OrcBreasts</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>OrcBreasts</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
+		<defName>OrcPenis</defName>
+		<label>Orc penis</label>
+		<labelNoun>a Orc penis</labelNoun>
+		<description>A Orc penis.</description>
+		<descriptionHyperlinks>
+			<ThingDef>OrcPenis</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>OrcPenis</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartVagina">
+		<defName>OrcVagina</defName>
+		<label>Orc vagina</label>
+		<labelNoun>a Orc vagina</labelNoun>
+		<description>A vagina that probably belongs to some Orc.</description>
+		<descriptionHyperlinks>
+			<ThingDef>OrcVagina</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>OrcVagina</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+
+	<rjw.HediffDef_SexPart ParentName="NaturalPrivatePartAnus">
+		<defName>OrcAnus</defName>
+		<label>Orc anus</label>
+		<labelNoun>a Orc anus</labelNoun>
+		<description>A anus that probably belongs to some Orc.</description>
+		<descriptionHyperlinks>
+			<ThingDef>OrcAnus</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>OrcAnus</spawnThingOnRemoved>
+	</rjw.HediffDef_SexPart>
+</Defs>
