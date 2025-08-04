@@ -208,6 +208,20 @@
         </partTags>
     </rjw.HediffDef_SexPart>
 <!--Bioferrite-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+        <defName>BioferriteBreasts</defName>
+        <label>bioferrite breasts</label>
+        <labelNoun>a pair of bioferrite breasts</labelNoun>
+        <description>A pair of bioferrite breasts.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BioferriteBreasts</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BioferriteBreasts</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
     <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
         <defName>BioferritePenis</defName>
         <label>bioferrite penis</label>
@@ -254,6 +268,20 @@
         </partTags>
     </rjw.HediffDef_SexPart>
 <!--Desiccated-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+        <defName>DesiccatedBreasts</defName>
+        <label>desiccated breasts</label>
+        <labelNoun>a pair of desiccated breasts</labelNoun>
+        <description>A pair of desiccated breasts.</description>
+        <descriptionHyperlinks>
+            <ThingDef>DesiccatedBreasts</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>DesiccatedBreasts</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+
     <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
         <defName>DesiccatedPenis</defName>
         <label>desiccated penis</label>
@@ -300,6 +328,20 @@
         </partTags>
     </rjw.HediffDef_SexPart>
 <!--Gorebeasts-->
+    <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartBreast">
+        <defName>GoreBreasts</defName>
+        <label>gore breasts</label>
+        <labelNoun>a pair of gore breasts</labelNoun>
+        <description>A pair of gore breasts.</description>
+        <descriptionHyperlinks>
+            <ThingDef>GoreBreasts</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>GoreBreasts</spawnThingOnRemoved>
+        <partTags>
+            <li>Humanlike</li>
+        </partTags>
+    </rjw.HediffDef_SexPart>
+    
     <rjw.HediffDef_SexPart ParentName="NaturalPrivatePartPenis">
         <defName>GorePenis</defName>
         <label>gore penis</label>
